@@ -39,7 +39,7 @@ export interface Props {
 }
 
 const DEFAULT_PROPS = {
-  title: "This is where you'll put your customer testimonials",
+  title: "This is where you'll put your customer testimonials!",
   slides: [
     {
       content: {
