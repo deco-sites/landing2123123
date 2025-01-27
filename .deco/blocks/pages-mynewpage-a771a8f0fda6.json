@@ -5,7 +5,7 @@
     {
       "__resolveType": "site/sections/Hero.tsx",
       "description": "What the",
-      "title": "<p>This is a title</p>"
+      "title": "<p>This is a title!!!</p>"
     },
     {
       "__resolveType": "site/sections/SimpleTextList.tsx"
